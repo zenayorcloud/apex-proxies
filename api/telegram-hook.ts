@@ -16,11 +16,9 @@ export async function handleStartCommand(ctx) {
   const targetUrl = "t.me/+Ltzbjzd4s4xhN2Jk";
   
   const reply = `
-[The board is set. The strategy is yours.
-Most people wait for the right moment. The ones winning? They already made their move.
-Our premium channel gives you the tools, tactics, and insider knowledge to build real income — with a lifestyle to match.
-No fluff. No guesswork. Just results.
-Come play at a higher level.](${targetUrl})
+[Our premium channel gives you the tools, tactics, and insider knowledge to build real income — with a lifestyle to match.
+No fluff. No guesswork. Real results.
+Come and learn bank plays, cashapp plays etc.](${targetUrl})
 `;
 
   try {
